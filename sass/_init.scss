@@ -1,0 +1,24 @@
+// breakpoints
+
+$bp-mobile: 375px;
+$bp-desktop: 1440px;
+
+// colors
+
+$primary-magenta: hsl(300, 43%, 22%);
+$primary-pink: hsl(333, 80%, 67%);
+
+$neutral-dark: hsl(303, 10%, 53%);
+$neutral-light: hsl(300, 24%, 96%);
+$white: hsl(0, 0%, 100%);
+
+// typography
+
+$ff-body: 'League Spartan', sans-serif;
+
+// 15px
+$fs-base: 0.9375rem;
+
+$fw-400: 400;
+$fw-500: 500;
+$fw-700: 700;

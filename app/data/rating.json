@@ -1,0 +1,16 @@
+{
+  "rating": [
+    {
+      "ticker-rating": "5",
+      "ticker-description": "Rated 5 Stars in Reviews"
+    },
+    {
+      "ticker-rating": "5",
+      "ticker-description": "Rated 5 Stars in Report Guru"
+    },
+    {
+      "ticker-rating": "5",
+      "ticker-description": "Rated 5 Stars in BestTech"
+    }
+  ]
+}
